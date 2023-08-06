@@ -1,0 +1,17 @@
+{
+	"assets": [
+		"minecraft"
+	],
+	"description": "§6[Geese Texture]§f for Minecraft 1.20",
+	"format": 15,
+	"languages": [
+		{
+			"bidirectional": false,
+			"code": "geese",
+			"name": "Geese",
+			"region": "Geese"
+		}
+	],
+	"target": "1.20",
+	"version": "2.0.0"
+}

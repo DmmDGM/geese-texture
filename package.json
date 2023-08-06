@@ -1,0 +1,14 @@
+{
+	"devDependencies": {
+		"@types/node": "^20.3.1",
+		"@typescript-eslint/eslint-plugin": "^6.2.0",
+		"@typescript-eslint/parser": "^6.2.0",
+		"eslint": "^8.46.0"
+	},
+	"type": "module",
+	"name": "geese-texture",
+	"dependencies": {
+		"chalk": "^5.3.0",
+		"zip-a-folder": "^2.0.0"
+	}
+}
